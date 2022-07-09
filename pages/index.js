@@ -84,6 +84,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.title}>Welcome to Abood Website</h1>
         <p>These are my cars</p>
+        <p>This is amazing</p>
         <div>
           <Image
             src={
